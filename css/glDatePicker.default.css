@@ -1,0 +1,109 @@
+.gldp-default {
+	position: absolute;
+	font-family: 'Roboto', sans-serif;
+}
+
+/* Core style for every cell */
+.gldp-default .core {
+	position: relative;
+	float: left;
+	padding: 0;
+	margin: 0;
+	font-size: 14px;
+	text-align: center;
+	cursor: pointer;
+	color: #222;
+}
+
+
+.gldp-default .border {}
+
+
+.gldp-default .prev-arrow:active,
+.gldp-default .next-arrow:active {
+	color: #f00;
+}
+
+.gldp-default .prev-arrow-off,
+.gldp-default .next-arrow-off {}
+
+/* Days of the week */
+.gldp-default .dow {
+	color: #808080;
+	font-weight: normal;
+}
+
+/* Weekdays */
+.gldp-default .mon,
+.gldp-default .tue,
+.gldp-default .wed,
+.gldp-default .thu,
+.gldp-default .fri {
+	color: #808080;
+	font-weight: normal;
+	font-family: 'Roboto', sans-serif;
+}
+
+/* Weekend days */
+.gldp-default .sat,
+.gldp-default .sun {
+	color: #808080;
+	font-weight: normal;
+}
+
+/* Selectable days that are outside of current month being shown */
+.gldp-default .outday {
+	color: #808080;
+	font-weight: normal;
+}
+
+/* Hover */
+.gldp-default .mon:hover,
+.gldp-default .tue:hover,
+.gldp-default .wed:hover,
+.gldp-default .thu:hover,
+.gldp-default .fri:hover,
+.gldp-default .sat:hover,
+.gldp-default .sun:hover {
+	background-color: #3f51b5;
+	color: #fff;
+	-webkit-transition: all 500ms;
+	-moz-transition: all 500ms;
+	-ms-transition: all 500ms;
+	-o-transition: all 500ms;
+	transition: all 500ms;
+}
+
+.gldp-default .mon,
+.gldp-default .tue,
+.gldp-default .wed,
+.gldp-default .thu,
+.gldp-default .fri,
+.gldp-default .sat,
+.gldp-default .sun {
+	-webkit-transition: all 500ms;
+	-moz-transition: all 500ms;
+	-ms-transition: all 500ms;
+	-o-transition: all 500ms;
+	transition: all 500ms;
+	font-family: 'Roboto', sans-serif;
+}
+
+/* Non-Selectable days */
+.gldp-default .noday {}
+
+/* Currently selected day */
+.gldp-default .selected,
+.gldp-default .special {
+	background-color: #262626;
+	color: #fff;
+}
+
+/* Today */
+.gldp-default .today {
+	background-color: #3f51b5;
+	color: #fff;
+}
+
+/* Special */
+.gldp-default .special {}

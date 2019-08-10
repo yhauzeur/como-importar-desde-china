@@ -1,0 +1,1785 @@
+/* lg */ 
+@media (min-width: 1400px) {
+	.error-section {
+	    height: 650px;
+
+	}	
+}
+
+@media (min-width: 1200px) and (max-width: 1780px) {
+
+	#navigation.menu-right ul.sub-menu.left, 
+	#navigation.menu-right ul.sub-menu .sub-menu-2.left {
+		left: inherit;
+		right: 50%;
+	}
+	#navigation.menu-right .left.menu-before::before {
+		left: inherit;
+		right: -6px;
+	}
+	#navigation.menu-right ul.sub-menu .sub-menu-2.left {
+		right: 100%;
+	}
+
+}
+
+/* md */
+@media (min-width: 992px) and (max-width: 1199px) {
+
+	#countdown li {
+		width: 24%;
+	}
+	#countdown li:first-child {
+		margin-right: 0;
+	}
+	#countdown li span {
+		font-size: 30px;
+	}
+	#countdown li:first-child::before {
+		right: -35px;
+	}	
+	.mountain-view .mountain-info h3::before{
+		top: 105px;
+	}
+	#navigation .navbar-nav li + li {
+		margin-left: 5px;
+	}
+	.pricing-plans .price {
+		padding: 15px 35px 30px;
+	}
+	.achievement-image {
+		margin-right: 15px;
+	}
+	.about-event .about {
+		padding: 40px 20px 30px;
+	}
+	.home-banner-four #countdown li:first-child {
+		margin-right: 0;
+	}
+	.home-banner-four #countdown li:first-child::before {
+		right: 40px;
+	}
+	.about-section.about .about {
+		padding: 25px 15px;
+	}
+	.speaker-slider-two .btn.btn-primary {
+		margin-top: 0;
+	}
+	.btn.btn-primary.btn-small {
+		padding: 7px 15px;
+	}
+	.home-slider .owl-prev {
+		left: 90%;
+	}
+	.home-slider .owl-next {
+		right: 4%;
+	}
+	.conference-two {
+		padding: 25px 0 30px;
+	}
+	.conference-two #countdown {
+		text-align: right;
+		padding-top: 20px;
+		margin-bottom: 0;
+	}
+	.conference-two #countdown li {
+		width: 24%;
+	}
+	.conference-two #countdown li:first-child {
+		margin-right: 0;
+		width: 105px;
+	}
+	.conference-two #countdown li span {
+		font-size: 55px;
+		margin-right: 0;
+	}
+	.conference-two #countdown li p {
+		font-size: 18px;
+		display: inline;
+		margin-left: 5px;
+	}
+	.conference-two #countdown li + li {
+		margin-left: 0;
+	}
+	.conference-two #countdown li::before {
+		right: -22px;
+	}
+	.home-banner-four #countdown li:first-child::before {
+		right: 23px;
+	}	
+	.blog-section.blog-one .entry-title h2 {
+		margin: 10px 0;
+	}	
+	.post-content {
+		line-height: 24px;
+	}
+	.home-banner-seven .home-info {
+		margin-top: -75px;
+	}
+	.calendar {
+		padding-bottom: 305px;
+	}
+	.blog-four h1 {
+		font-size: 60px;
+	}
+	.footer-three h3 {
+		font-size: 17px;
+	}
+	.twitter .twitter-image {
+		float: none;
+	}
+	.mydate {
+	    width: 300px;
+	}
+	.home-slider.home-banner-three .owl-prev {
+		left: 4%;
+	}
+	.calendar.calendar-four .mydate {
+	    width: 215px;
+	}
+	#navigation.menu-four.menu .nav > li a {
+	    line-height: 22px;
+	    padding: 3px 12px;		
+	}
+	#navigation.menu-four.menu .nav > li + li,
+	#navigation.menu-two.menu .navbar-nav li + li {
+		margin-left: 5px;
+	}	
+	#navigation.menu-three .navbar-nav li a {
+		padding: 0 10px;
+	}
+	.about-conference .about {
+		font-size: 15px;
+	}
+	.page-header-top .social-menu a, .share-social.social-two a {
+		line-height: 21px;
+	}	
+	.footer-widget li h5 {
+		min-width: 60px;
+		margin: 5px 0 0;
+	}
+	#navigation.menu-right ul.sub-menu.left, 
+	#navigation.menu-right ul.sub-menu .sub-menu-2.left {
+		left: inherit;
+		right: 50%;
+	}
+	#navigation.menu-right .left.menu-before::before {
+		left: inherit;
+		right: -6px;
+	}
+	#navigation.menu-right ul.sub-menu .sub-menu-2.left {
+		right: 100%;
+	}
+	#navigation.menu-five .navbar-nav li + li, 
+	#navigation.menu-four .navbar-nav li + li {
+		margin-left: 5px;
+	}
+	.program-section .evan-time .btn.btn-primary {
+		padding: 7px 10px;
+	}
+	.error-section {
+		height: 500px;
+	}
+	#navigation.menu-two .logo {
+		margin-top: 0;
+	}	
+	.footer-section .form-control {
+		width: 76%;
+	}
+	.speaker-section.speaker-two .speaker-image {
+		width: 60%;
+	}
+	.speaker-section.speaker-two .speaker-info {
+		line-height: 25px;
+	}
+	.calendar.calendar-four {
+		padding-bottom: 235px;
+	}	
+
+
+
+
+}
+
+
+/* sm */
+@media (min-width: 768px) and (max-width: 991px) {
+	
+	ul.sub-menu.left, 
+	ul.sub-menu .sub-menu-2.left {
+		left: inherit;
+		right: 50%;
+	}
+	.left.menu-before::before {
+		left: inherit;
+		right: -6px;
+	}
+	ul.sub-menu .sub-menu-2.left {
+		right: 100%;
+	}
+	#navigation .navbar-nav li + li {
+		margin-left: 5px;
+	}
+	.home-info h3 {
+		font-size: 65px;
+	}
+	.home-banner {
+		height: 520px;
+	}
+	#countdown {
+		text-align: left;
+	}
+	#countdown li {
+		width: 24%;
+	}
+	#countdown li:first-child {
+		margin-right: 0;
+	}
+	#countdown li span {
+		font-size: 30px;
+	}
+	#countdown li:first-child::before {
+		right: 20px;
+	}
+	.accommodation-info h2 {
+		font-size: 18px;
+	}
+	.mountain-view .mountain-info address span {
+		margin-left: 0;
+	}
+	.mountain-view .mountain-info h3::before {
+		top: 105px;
+	}
+	.achievement-image,
+	#navigation.menu-seven .navbar-collapse {
+		float: none;
+	}
+	.page-header-top .social-menu a, .share-social.social-two a {
+		line-height: 21px;
+	}
+	.newsletter-section .newsletter-info h1 {
+		font-size: 30px;
+	}
+	.conference-two #countdown {
+		text-align: right;
+		padding-top: 20px;
+		margin-bottom: 0;
+	}
+	.conference-two #countdown li {
+		width: 22%;
+	}
+	.conference-two #countdown li:first-child {
+		margin-right: 0;
+		width: 105px;
+	}
+	.conference-two #countdown li span {
+		font-size: 40px;
+		margin-right: 0;
+	}
+	.conference-two #countdown li p {
+		font-size: 16px;
+		display: inline;
+		margin-left: 5px;
+	}
+	.conference-two #countdown li + li {
+		margin-left: 0;
+	}
+	.conference-two #countdown li::before {
+		right: -22px;
+	}
+	.home-banner-four #countdown li:first-child::before {
+		right: 23px;
+	}
+	.conference-two .conference-info h1 {
+		font-size: 28px;
+	}
+	.conference-two {
+		padding: 25px 0 30px;
+	}
+	.home-banner-two {
+		height: 700px;
+	}
+	.home-banner-two .home-info h2 {
+		font-size: 70px;
+		line-height: 70px;
+	}
+	.home-banner-two .home-info {
+		margin-top: -120px;
+	}
+	.pricing-plans .price {
+		padding: 15px 10px 30px;
+	}
+	.social-section li {
+		padding: 45px 15px 45px 14px;
+	}
+	.contact-section .view-area {
+		left: 0;
+	}
+	.footer-section .form-control {
+		width: 70%;
+	}
+	.achievement-two .achievement-image {
+		display: block;
+	}
+	.navbar-collapse.pull-right {
+		float: left !important;
+	}
+	.footer-section.footer-tow .footer-widget {
+		min-height: 145px;
+	}
+	.menu-three .right-part {
+		left: 31%;
+		position: absolute;
+		top: -42px;		
+	}
+	#navigation.menu-two .navbar-collapse {
+		float: left;
+	}
+	.home-banner-four {
+		height: inherit;
+	}
+	.home-banner-four .home-info h3 {
+		font-size: 55px;
+		line-height: 55px;
+	}	
+	.home-banner-four #countdown li:first-child {
+		margin-right: 0;
+	}
+	.registration {
+		padding: 5px 20px 10px;
+	}
+	.menu-four {
+		top: 65px;
+	}
+	.sb-search {
+		top: 4px;
+	}
+	#navigation.menu-four .navbar-collapse {
+		margin-right: 20px;
+	}
+	#navigation .navbar-nav a {
+		padding: 0 10px;
+	}
+	#navigation.menu-four .navbar-nav a {
+		padding: 0 9px;
+	}
+	#navigation.menu-five .navbar-nav a {
+		font-size: 13px;
+		padding: 0 5px;
+	}
+	#navigation.menu-five .navbar {
+		padding: 25px 15px 30px;
+	}
+	.home-banner-five,
+	.home-banner-five .home-content {
+		height: 780px;
+	}
+	.evan-fulton .evan-image {
+		margin-right: 10px;
+	}
+	.program-section .evan-time h3 {
+		margin-right:5px;
+	}
+	.program-section .evan-time .btn.btn-primary {
+		padding: 7px 10px 6px;
+	}
+	.home-slider .owl-prev {
+		left: 90%;
+	}
+	.home-slider.home-banner-three .owl-prev {
+		left: 4%;
+	}
+	.home-slider .owl-next {
+		right: 4%;
+	}
+	#navigation.menu-three .navbar-nav a {
+		padding: 0 10px;
+	}
+	.blog-section.blog-one .entry-thumbnail {
+		float: none;
+		margin-bottom: 20px;
+	}
+	#navigation.menu-six .nav > li + li {
+		margin-left: 15px;
+	}
+	.menu-six .logo {
+		margin:5px 0 0;
+	}
+	.pagination.pagination-one > li > a, 
+	.pagination.pagination-three > li > a {
+		padding: 15px;
+	}
+	.categories li span,
+	.categories li a {
+		font-size: 13px;
+	}
+	.categories li a {
+		padding: 15px 5px 13px;
+	}
+	.home-banner-seven .home-info {
+		margin-top: -65px;
+	}
+	.blog-section.blog-two h2 {
+		font-size: 23px;
+	}
+	.home-banner-eight {
+		background-size: cover;
+	}
+	.pagination.pagination-three > li > a {
+		border-radius: 20px;
+	}
+	.calendar {
+		padding-bottom: 240px;
+	}
+	.calendar.calendar-four {
+		padding-bottom: 235px;
+	}
+	.blog-four h1 {
+		font-size: 45px;
+		margin-bottom: 40px;
+	}	
+	.blog-four .add-comment {
+		margin-top: 0;
+	}	
+	.recent-posts .posts h3, 
+	.recent-posts .posts h3 a {
+		font-size: 20px;
+	}
+	.home-banner-nine {
+		height: 440px;
+	}
+	.home-banner-nine .home-info {
+		margin-top: -45px;
+	}
+	.contact-section.contact-three #gmap, 
+	.contact-section.contact-three .contact,
+	.contact-section.contact-one #gmap, 
+	.contact-section.contact-one .contact {
+		height: 400px;
+	}
+	.contact-section.contact-three .contact-info {
+		bottom: 95px;
+	}
+	.evan-content .speaker .evan-image {
+		margin-left: 5px;
+	}
+	.evan-content .speaker .evan-time h3 span {
+		padding: 10px 68px 10px 10px;
+	}
+	.evan-content .speaker .btn.btn-primary {
+		padding: 9px 8px 7px;
+	}
+	.evan-content .speaker .evan-time h3 span, 
+	.evan-content .speaker .btn.btn-primary {
+		font-size: 12px;
+	}
+	.contact-section.contact-one .contact-info h2::before {
+		bottom: 170px;
+	}
+	.venta-event h1 {
+		font-size: 32px;
+	}
+	.twitter .twitter-image {
+		float: none;
+	}
+	.registration-form .btn.btn-primary {
+		float: none;
+		margin-top: 0;
+	}
+	.registration-form h3 {
+		font-size: 14px;
+	}
+	.free-seats h4 {
+		font-size: 14px;
+		padding: 20px 0 20px 18px;
+	}
+	.free-seats h4 span {
+		padding: 20px;
+	}
+	.error-section {
+		height: 680px;
+	}
+	.home-banner-two.coming-soon .home-info {
+		margin-top: -180px;
+	}
+	.mydate {
+	    width: 225px;
+	}
+	.section-padding {
+		padding: 60px 0;
+	}
+	.speaker-section.speaker-one.section-padding	{
+		padding-bottom: 0 ;
+	}
+	.testimonials-section.testimonials-two {
+		padding-bottom: 30px;
+	}
+	.btn.btn-primary.btn-small {
+	    padding: 6px 15px 7px;
+	}
+	#navigation.menu-four .navbar-collapse {
+		float: none;
+	}
+	#navigation.menu-four.menu .nav > li a {
+	    line-height: 22px;
+	    padding: 3px 8px;	
+	}
+	#navigation.menu-four.menu .nav ul.sub-menu > li a {
+	    padding: 0 20px;	
+	}	
+	#navigation.menu-four.menu .nav > li + li {
+		margin-left: 5px;
+	}
+	.calendar.calendar-four .mydate {
+		width: 215px;
+	}
+	.about-conference::after {
+		bottom: 160px;
+	}
+	.footer-section.footer-tow {
+		padding-bottom: 80px;
+	}
+	.speaker-section.speaker-two {
+		padding-bottom: 0;
+	}
+	.about-section.event .about {
+		min-height: 12px;
+	}
+	.calendar-one .gldp-default {
+		top: 915px;
+	}
+	.conference-info h1 {
+		margin-top: 0;
+	}
+	.footer-section .copyright, 
+	.footer-section .copyright a,
+	.footer-section .footer-menu li a {
+		font-size: 11px;
+	}
+	.footer-section .footer-menu li + li {
+		margin-left: 8px;
+	}	
+	.footer-section.footer-tow .footer-menu li + li,
+	.footer-section .footer-menu.menu li + li {
+		margin-left: 35px;
+	}
+	.contact-section.venue #gmap,
+	.contact-section.venue .contact {
+		height: 450px;
+	}
+	.gallery-section .gallery-content.gallery {
+		margin-bottom: 20px;
+	}
+	.gallery-section .gallery-content-two {
+		margin-bottom: 50px;
+	}
+	.contact-section .contact-info {
+		left: 45px;
+	}
+	#navigation.menu-five .navbar-nav li + li, 
+	#navigation.menu-four .navbar-nav li + li {
+		margin-left: 5px;
+	}
+	.calendar-section-two .widget-title h2 {
+		font-size: 24px;
+	}
+	.error-section {
+		height: 550px;
+	}
+	#navigation.menu-two .logo {
+		margin: 0 0 15px;
+	}	
+	.menu-four .logo {
+		margin: 0 0 15px;
+	}	
+	.speaker-image img {
+		width: 100%
+	}
+	.menu-seven .logo {
+		margin: 0 0 15px;
+	}
+	.blog-section.blog-one .entry-title h2 {
+		margin: 15px 0 30px;
+	}
+	.home-banner-eight {
+		padding-top: 220px;
+	}
+	.event-program #four.tab-pane .program-content::before {
+		width: 82%;
+	}
+	.schedule .btn.btn-primary.btn-small {
+		padding: 6px 15px;
+	}
+	.prices-section.prices .btn.btn-primary {
+		padding: 10px 20px;
+	}
+	.registration .form-control,
+	.registration .dropdown-menu li a,
+	.registration .dropdown.category-dropdown {
+		padding-left: 20px;
+	}
+	#navigation.menu-seven .navbar-nav{
+		float: right;
+	}
+	#navigation.menu-seven .nav > li + li {
+		margin-left: 15px;
+	}
+	#navigation.menu-seven .navbar-nav a::after {
+		bottom: -56px;
+	}
+	.program-section.program-five .evan-time h3 {
+		margin: 0 5px 0 0;
+	}
+	#navigation.menu-two .navbar-collapse.pull-right{
+		float: right !important;
+	}
+
+
+
+}
+
+
+/* xs */
+@media (max-width: 767px) {
+	
+	#navigation.menu-two {
+		background-color: #e4e6db;
+	}
+	#navigation.menu-six {
+		background-color: #3e3e3e;
+	}
+	#navigation.menu-four.menu {
+		background-color: #000;
+	}
+	.page-header-top .logo,
+	.page-header-top .top-right-part,
+	#navigation .navbar-collapse,
+	#navigation.menu-five .navbar-collapse,
+	.menu-two .pull-right,
+	.col-to-action .btn.btn-primary,
+	.footer-section .footer-menu li,
+	.view-area .logo-intro,
+	.footer-section .footer-menu {
+		float: none !important;
+	}
+	.page-header-top .logo {
+		margin-bottom: 5px;
+	}
+	.page-header-top .social-menu {
+		position: absolute;
+		right: 15px;
+		top: 12px;
+	}
+	.top-bar-one .social-menu::before,
+	#countdown li:first-child::before,
+	.home-slider .owl-nav,
+	.conference-two::before,
+	.conference-two #countdown li::before,
+	.sponsors-section .owl-controls,
+	.about-conference::after,
+	.speaker-slider-two .owl-controls,
+	.home-banner-four #countdown::before,
+	.program-section.program-two .panel-title a::after {
+		display: none;
+	}	
+	.top-bar-one {
+		padding: 10px 0;
+	}
+	.page-header-top .top-right-part h2,
+	.menu-three .right-part h2 {
+		font-size: 11px;
+		margin-top: 8px;
+	}
+	.page-header-top .social-menu a, 
+	.share-social.social-two a {
+		line-height: 21px;
+	}
+	.menu-one {
+		top: 0px;
+		padding: 0;
+	}
+	#navigation .navbar-collapse {
+		float: none;
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+	.sb-search {
+		right: 15px;
+		top: 7px;
+	}
+	.sb-search.sb-search-open, 
+	.no-js .sb-search {
+		width: 50%;
+	}
+	#navigation.menu-six .nav > li + li,
+	#navigation.menu-two.menu .navbar-nav li + li,
+	#navigation.menu-seven .nav > li + li,
+	#navigation.menu-four.menu .nav > li + li,
+	#navigation .navbar-nav li + li,
+	.conference-two #countdown li + li {
+		margin-left: 0;
+	}	
+	#navigation .navbar-nav li a {
+		padding-left: 15px;
+		border-radius: 0;
+	}
+	ul.sub-menu, 
+	ul.sub-menu .sub-menu-2 {
+		right: 5px;
+		top: 25px;
+		left: 0;
+		padding: 5px 15px;
+	}
+	ul.sub-menu .sub-menu-2 {
+		padding-left: 0;
+	}
+	.menu-before::before {
+		display: none;
+	}
+	#navigation .navbar-nav li ul.sub-menu li a {
+		padding: 0;
+	}
+	#navigation .navbar-nav li ul.sub-menu-2 li a {
+		padding: 0 15px;
+	}	
+	.menu-one .navbar-toggle {
+		float: left;
+		left: 15px;
+	}
+	#navigation.menu-two .navbar {
+		padding: 0;
+	}
+	#navigation.menu-two .logo {
+		margin-top: 17px;
+	}
+	#navigation.menu-two .navbar-toggle {
+		margin-right: 0;
+	}
+	.menu-three {
+		padding-bottom: 0;
+	}
+	.menu-three .right-part {
+		position: absolute;
+		left: 15px;
+		top: 5px;
+	}
+	.menu-three .logo {
+		float: left;
+	}
+	.top-bar-two {
+		padding-top: 15px;
+		padding-bottom: 0;
+	}
+	.menu-four,
+	.menu-four.menu {
+		top: 36px;
+		padding-bottom: 5px;
+	}
+	.top-bar-four,
+	.top-bar-five {
+		padding: 10px 0;
+	}
+	.top-bar-four .social-menu,
+	.top-bar-five .social-menu {
+		z-index: 9999;
+		top: 50px;
+	}
+	.menu-four .logo {
+		position: absolute;
+		top: -40px;
+	}
+	.menu-four .navbar-toggle {
+		float: left;
+		margin-left: 15px;
+	}
+	#navigation.menu-four .nav > li a, 
+	#navigation.menu-four .nav > li.active a, 
+	#navigation.menu-four .nav > li > a:focus, 
+	#navigation.menu-four .nav > li > a:hover {
+		border: 0;
+	}
+	#navigation.menu-four .navbar-collapse {
+		margin-right: 0;
+	}
+	#navigation.menu-five .logo {
+		margin-top: 14px;
+		padding-left: 10px;
+	}
+	#navigation.menu-five .navbar {
+		padding: 0 0 0 15px;
+	}
+
+	#navigation.menu-six .nav > li a,
+	#navigation.menu-seven .navbar-nav a {
+		padding-left: 15px;
+		padding-bottom: 0;
+		margin-bottom: 5px;
+	}
+	#navigation.menu-six ul.sub-menu,
+	#navigation.menu-seven ul.sub-menu {
+		top: 30px;
+	}
+	#navigation.menu-six .navbar {
+		top: 0;
+		padding-bottom: 2px;
+	}
+	.menu-six .logo {
+		margin-top: 15px;
+	}
+	#navigation.menu-seven {
+		padding: 10px 0;
+	}
+	.menu-seven .logo {
+		margin-top: 14px;
+	}
+	#countdown {
+		text-align: center;
+		margin-bottom: 0;
+	}
+	#countdown li:first-child,
+	.home-banner-four #countdown li:first-child {
+		margin-right: 0;
+	}
+	#countdown li,
+	.conference-two #countdown li {
+		width: 24%;
+	}
+	#countdown li span,
+	.conference-two #countdown li span {
+		font-size: 35px;
+	}	
+	.conference-two #countdown li p {
+		font-size: 14px;
+		float: none;
+		display: inline;
+	}
+	.conference-two #countdown li span {
+		margin-right: 0;
+	}
+	.home-banner,
+	.home-banner-three .home-banner,
+	.home-banner-nine {
+		height: 100vh ;
+	}
+	.home-info {
+		margin-top: -150px;
+	}
+	.home-info h2 {
+		margin-bottom: 5px;
+		font-size: 20px;
+	}
+	.home-info h3 {
+		font-size: 40px;
+		margin-top: 0;
+		margin-bottom: 10px;
+	}
+	.btn.btn-primary {
+		padding: 10px 10px 8px;
+		font-size: 14px;
+	}
+	.home-banner .btn.btn-primary {
+		margin-right: 10px;
+	}
+	.home-banner-two {
+		height: 600px;
+	}
+	.home-banner-two .home-info {
+		max-width: 380px;
+		margin-top: -130px;
+	}
+	.home-banner-two .home-info h2 {
+		font-size: 35px;
+		line-height: 40px;
+	}
+	.conference-two::after {
+		width: 100%;
+	}
+	.conference-two #countdown li:first-child {
+		width: 24%;
+		margin-right: 0;
+	}
+	.conference-info h1 {
+		font-size: 30px;
+	}
+	.conference-deat {
+		padding-top: 10px;
+		padding-bottom: 25px;
+	}
+	.section-padding,
+	.speaker-sections.speaker,
+	.speaker-section.speaker {
+		padding: 35px 0;
+	}
+	.achievement-section.achievement-three  {
+		padding: 45px 0 30px;
+	}
+	.section-title.title-before h1 {
+		margin-bottom: 25px;
+	}	
+	.section-title h1,
+	.sub-title h1 {
+		font-size: 24px;
+	}
+	.section-title,
+	.accommodation-info {
+		line-height: 24px;
+	}
+	.title-before h1::before {
+		bottom: -10px;
+	}
+	.about-section .about-content {
+		margin-top: 20px;
+	}
+	.program-section .nav-tabs > li > a {
+		padding: 7px 18px;
+	}
+	.program-section .tab-content {
+		padding: 20px 15px 10px;
+	}
+	.program-section .panel-title a::after  {
+		display: none;
+	}
+	.program-section .panel-default > .panel-heading {
+		padding-left: 0;
+		padding-right: 0;
+	}
+	.program-section .panel-default > .panel-heading .time {
+		margin-right: 35px;
+		margin-bottom: 0;
+	}
+	.program-section .panel-title a::before {
+		left: 95px;
+	}
+	.program-section .panel::before {
+		left: 102px;
+	}
+	.program-section .program-info {
+		padding-left: 120px;
+	}
+	.program-section .panel-bottom.panel-default > .panel-heading .time  {
+		margin-bottom: 10px;
+	}	
+	.program-section .evan-time h3 {
+		float: left;
+		margin-right: 5px;
+		padding: 10px 10px 9px;
+		margin-top: 0;
+	}	
+	.program-section .evan-time .btn.btn-primary {
+		float: right;
+		font-size: 12px;
+	    padding-bottom: 7px;
+	    padding-top: 9px;		
+	}
+	.program-section .evan-time {
+		float: left;
+	}
+	.program-section .evan-fulton {
+		margin-bottom: 5px;
+	}
+	.mountain-view .mountain-info h3 {
+		margin-top: 20px;
+		font-size: 22px;
+	}
+	.mountain-view .mountain-info address,
+	.contact-section .contact-info address {
+		line-height: 22px;
+	}
+	.mountain-view .mountain-info h3::before {
+		display: none;
+	}
+	.mountain-view .mountain-info {
+		margin-bottom: 30px;
+		padding: 0 15px;
+	}
+	.mountain-view .btn.btn-primary,
+	.achievement-content {
+		margin-top: 0;
+	}
+	.accommodation-info h2 {
+		margin-bottom: 10px;
+	}
+	.accommodation .place,
+	.about-conference .about, 
+	.accommodation-info, 
+	.about-section .about {
+		margin-bottom: 25px;
+	}
+	.achievement-info {
+		width: 50%;
+		float: left;
+		margin-bottom: 25px;
+	}
+	.achievement-section.achievement-one {
+		padding: 35px 0 25px;
+	}
+	.col-to-action .contact-info h1 {
+		font-size: 26px;
+	}
+	.gallery-content li {
+		width: 50%;
+	}
+	.social-section li {
+		padding: 45px 10px;
+	}
+	.gallery-section .section-title h1 {
+		margin-bottom: 20px;
+	}
+	.contact-section .contact-info,
+	.contact-section .contact,
+	.contact-section .view-area,
+	.contact-section.contact-two .contact,
+	.contact-section.contact-two .contact-info {
+		left: 0;
+	}
+	#gmap,
+	.contact-section .contact {
+		height: 250px;
+		width: 100%;
+	}
+	.contact-section .contact-info {
+		padding-left: 15px;
+		bottom: 20px;
+	}
+	.footer-section.section-padding {
+		text-align: center;
+		padding: 30px 0 25px;
+	}
+	.footer-section .footer-menu li {
+		display: inline;
+	}
+	.testimonials-section .section-title h1 {
+		margin-bottom: 45px;
+	}
+	.testimonials-section .title-before h1::before {
+		bottom: -15px;
+	}
+	.testimonials-section .owl-controls {
+		margin-top: 15px;
+	}
+	.about-conference .sub-title h1 {
+		margin-bottom: 20px;
+	}
+	.about-conference .about-image {
+		margin-bottom: 65px;
+	}
+	.speaker-section .speaker h2 span {
+		padding: 8px 30px;
+	}
+	.event-program .nav-tabs > li > a {
+		font-size: 13px;
+		padding: 5px 10px;
+	}
+	.event-program .nav-tabs > li + li {
+		margin-left: 5px;
+	}
+	.event-program .nav-tabs {
+		margin-bottom: 35px;
+	}
+	.event-program .program-content {
+		margin-bottom: 0;
+	}
+	.contact-section .view-area {
+		margin-left: 15px;
+	}
+	.footer-section.footer-tow {
+		text-align: left;
+		padding: 50px 0;
+	}
+	.footer-widget.widget ul {
+		margin-top: 25px;
+	}
+	.footer-copyright {
+		text-align: center;
+	}
+	.footer-tow .copyright::before {
+		left: 50%;
+		margin-left: -30px;
+	}
+	.home-banner-three .home-info {
+		margin-left: 0;
+		max-width: 400px;
+		margin-left: -200px;
+		margin-top: -115px;
+	}
+	.home-banner-three .home-info h3 {
+		line-height: 35px;
+		margin: 15px 0;
+	}
+	.speaker-section.speaker-two .speaker-image {
+		width: 40%;
+	}
+	.speaker-slider-two .speaker-info h1 {
+		margin-top: 15px;
+	}
+	.speaker-slider-two .speaker-info h5 {
+		margin-bottom: 5px;
+	}
+	.speaker-slider-two .btn.btn-primary {
+		margin-top: 5px;
+	}
+	.speaker-slider-two .speaker-info h5::before {
+		margin: -5px;
+	}
+	.home-banner-four {
+		height: inherit;
+		padding: 200px 0 100px;
+		background-position: right;
+	}
+	.home-banner-four .btn.btn-primary {
+		margin: 40px 0;
+	}
+	.registration .form-control,
+	.registration .dropdown-menu li a,
+	.registration .dropdown.category-dropdown {
+		padding-left: 15px;
+	}
+	.home-banner-four .home-info h3,
+	.home-banner-five .home-info h3 {
+		line-height: 40px;
+	}
+	.registration {
+		padding: 10px 25px 20px;
+	}
+	.about-section.event .about {
+		min-height: inherit;
+	}
+	.speaker-image img {
+		width: 100%;
+	}
+	.speaker-section.speaker .speaker,
+	.home-banner-five .home-info h3 {
+		margin-bottom: 20px;
+	}
+	.program-section.program-two .panel-title a::before {
+		left: 92px;
+	}
+	.program-section .panel-default > .panel-heading p {
+		padding-left: 123px;
+	}
+	.program-section.program-two .panel-heading .panel-title::before, 
+	.program-section.program-two .panel::before {
+		left: 99px;
+	}
+	.home-banner-five,
+	.home-banner-five .home-content {
+		height: 450px;
+	}
+	#navigation.menu-five {
+		top: 20px;
+	}
+	.home-banner-five .home-info {
+		margin-top: -90px;
+		height: 265px;
+	}
+	.home-banner-six {
+		height: 200px;
+	}
+	.home-banner-six .page-title {
+		padding-top: 90px;
+	}
+	.page-title h1,
+	.home-banner-seven .page-title h1 {
+		font-size: 30px;
+	}
+	.blog-section.blog-one .entry-thumbnail {
+		float: none;
+		margin-bottom: 20px;
+		margin-right: 0;
+	}
+	.pagination.pagination-one > li > a, 
+	.pagination.pagination-three > li > a {
+		padding: 10px 12px;
+	}
+	.pagination.pagination-one > li:first-child > a, 
+	.pagination.pagination-three > li:first-child > a,
+	.pagination.pagination-one > li:last-child > a, 
+	.pagination.pagination-three > li:last-child > a {
+		width: 80px;
+	}
+	.calendar {
+		padding-bottom: 370px;
+	}
+	.blog-section.blog-one .entry-title h2 {
+		margin:10px 0;
+	}
+	.entry-post {
+		margin-bottom: 20px;
+	}
+	.home-banner-seven {
+		height: 420px;
+	}
+	.home-banner-seven .home-info {
+		margin-top: -90px;
+	}
+	.blog-section.blog-two .search-bar {
+		float: none;
+		margin-bottom: 20px;
+		width: 270px;
+	}
+	.home-banner-eight {
+		background-size: cover;
+	}
+	.sub-content {
+		padding: 35px 0;
+	}
+	.pagination-two {
+		margin: 0;
+	}
+	.breadcrumb-one {
+		margin-top: 20px;
+	}
+	.blog-three .entry-post {
+		margin-bottom: 0;
+		margin-top: 20px;
+	}
+	.pagination.pagination-three > li > a {
+		border-radius: 20px;
+	}
+	.footer-three .footer-widget.widget {
+		margin-top: 25px;
+	}
+	.breadcrumb-two .breadcrumb > li + li::before {
+		padding: 0;
+	}
+	.breadcrumb-two .breadcrumb > li,
+	.breadcrumb-two .breadcrumb > li a {
+		font-size: 12px;
+	}
+	.blog-four h1,
+	.blog-six h1 {
+		font-size: 30px;
+		line-height: 32px;
+		margin-bottom: 25px;
+	}
+	.blog-six h1 {
+		font-size: 26px;
+	}
+	.blog-four .add-comment {
+		margin-top: 0;
+	}
+	.recent-posts h1 {
+		font-size: 30px;
+		margin-bottom: 40px;
+	}
+	.recent-posts .posts h3, 
+	.recent-posts .posts h3 a {
+		width: 100%;
+	}
+	.recent-posts .posts {
+		margin-bottom: 30px;
+	}
+	.home-banner-nine .home-info {
+		margin-top: -60px;
+	}
+	.calendar.calendar-four,
+	.calendar.calendar {
+		padding-bottom: 400px;
+	}
+	.conference-two .conference-info h2 {
+		color: #fff;
+	}
+	.blog-section.blog-five .tags-content,
+	.calendar-content {
+		margin-bottom: 20px;
+	}
+	.breadcrumb-two.breadcrumb {
+		padding-top: 20px;
+	}
+	.blog-six .entry-post {
+		margin-top: 20px;
+	}
+	.contact-section.contact-three #gmap, 
+	.contact-section.contact-three .contact,
+	.contact-section.contact-one #gmap, 
+	.contact-section.contact-one .contact {
+		height: 300px;
+	}
+	.contact-section.contact-three .contact-info {
+		bottom: 55px;
+	}
+	.venta-event h1 {
+		font-size: 30px;
+		margin-bottom: 10px;
+	}
+	.budapesta-conference {
+		top: 0;
+	}
+	.budapesta-conference h1 {
+		font-size: 32px;
+		line-height: 26px;
+		margin-top: 5;
+	}
+	.schedule-content .time-info {
+		margin-bottom: 20px;
+	}
+	.evan-content .speaker .btn.btn-primary {
+		padding: 9px 15px 7px;
+	}
+	.evan-content {
+		margin-top: 40px;
+	}
+	.contact-section.contact-one .contact-info h2::before {
+		bottom: -15px;
+	}
+	.program-section.program-five .panel-title a {
+		padding-left: 120px;
+	}
+	.program-section.program-five .panel-title a::before {
+		left: 95px;
+	}
+	.registration-form .btn.btn-primary {
+		float: none;
+		margin-top: 0;
+	}
+	.upcoming-section {
+		height: 720px;
+	}
+	.upcoming-section .home-info {
+		margin-top: -250px;
+	}
+	.upcoming-section .form-control {
+		width: 65%;
+	}
+	.upcoming-section .btn.btn-default {
+		width: 32%;
+	}
+	.error-section {
+		height: 250px;
+	}
+	.error-section .home-info h1 span {
+		font-size: 40px;
+	}
+	.error-section .home-info h1 {
+		font-size: 22px;
+	}
+	.error-section .home-info h1 small {
+		left: 75px;
+		top: 3px;
+	}
+	.error-section .home-info {
+		bottom: 0;
+	}
+	.home-banner-two.coming-soon {
+		height: 650px;
+	}
+	.home-banner-two.coming-soon .home-info {
+		margin-top: -200px;
+	}
+	.calendar .mydate,
+	.calendar.calendar-four .mydate{
+		width: 400px;
+	}
+	.breadcrumb-two .breadcrumb {
+		padding: 0;
+		margin-bottom: 5px;
+	}
+	.testimonials-section.testimonials-two {
+		padding-bottom: 20px;
+	}	
+	.gallery-slider .owl-prev {
+		left: 90%;
+	}
+	.speaker-slider-two .speaker-info h5::before {
+		bottom: 0;
+	}
+	.speaker-section {
+		padding-bottom: 0;
+	}
+	#navigation.menu-three .navbar-nav li + li, 
+	#navigation.menu-two .navbar-nav li + li {
+		margin-left: 0;
+	}	
+	#navigation.menu-three .navbar-toggle,
+	.sponsors-section .section-title h1 {
+		margin-top: 0;
+		margin-bottom: 10px;
+	}
+	.prices-section .col-sm-3{
+		width: 50%;
+		float: left;
+	}
+	.sponsors-section .section-title {
+		margin-bottom: 0;
+	}
+	.about-event .about {
+		padding: 40px 20px 30px;
+	}
+	.about-conference .about::after {
+		bottom: 70px;
+	}
+	.achievement-two .achievement-image {
+		display: block;
+		float: none;
+	}
+	.achievement-two .achievement-info h1 {
+		margin-top: 0;
+		font-size: 30px;
+	}
+	.breadcrumb-two {
+		padding: 20px 0 15px;
+	}
+	.blog-section.blog-two .pagination-two {
+	    margin-top: 10px;
+	}
+	.social-section li i {
+		display: block;
+	}
+	.footer-tow .footer-menu, 
+	.footer-five .footer-menu {
+		background-position: 51% center;
+	}	
+	.contact-section.contact-two #gmap {
+		height: 480px;
+	}	
+	.speaker-section.speaker .speaker-bottom {
+		margin-top: 0;
+	}
+	.contact-section.venue #gmap,
+	.contact-section.venue .contact {
+		height: 250px;
+	}
+	.gallery-content .gallery-item {
+		margin-bottom: 15px;
+	}
+	.gallery-section .gallery-content.gallery {
+		margin-bottom: 10px;
+	}
+	.gallery-section .gallery-content-two {
+		margin-bottom: 25px;
+	}
+	.speaker-section .owl-prev, 
+	.speaker-section .owl-next {
+		display: none !important;
+	}	
+	.event-program .program-content::before,
+	.event-program #two.tab-pane .program-content::before,
+	.event-program #four.tab-pane .program-content::before {
+		width: 50%;
+	}
+	
+	#navigation.menu-one .sb-search {
+		top: 7px;
+	}
+	#navigation.menu-five .navbar-nav li + li, 
+	#navigation.menu-four .navbar-nav li + li {
+		margin-left: 0;
+	}	
+	#navigation .navbar-nav li ul.sub-menu li a {
+		line-height: 26px;
+	}
+	.about-section.about .about {
+		padding: 25px 20px;
+	}
+	.footer-section .footer-menu li + li {
+		margin-left: 10px;
+	}
+	.footer-section .footer-menu.menu li + li {
+		margin-left: 40px;
+	}
+	.logo a {
+		display: inline-block;
+	}
+	.speaker-slider-two .speaker-info {
+		line-height: 25px;
+	}
+	.speaker-slider-two .speaker-info h2 {
+		margin-top: 30px;
+	}
+	#navigation.menu-six {
+		padding: 5px 0;
+	}
+	#navigation .nav > li a::after{
+		display: none;
+	} 
+	#navigation.menu-six .navbar-nav {
+		margin-top: 15px;
+	}
+	.social-section li a {
+		font-size: 14px;
+	}
+	#navigation.menu-four.menu .sb-search {
+		top: 7px;
+	}
+	.pricing-plans .price {
+		margin-bottom: 15px;
+	}
+	#navigation.menu-four .sb-search {
+		top: 7px;
+	}
+	.col-to-action {
+		padding-bottom: 50px;
+	}
+	.registration .form-control {
+		height: 50px;
+	}
+	.page-header-top .social-menu li + li {
+		margin-left: 5px;
+	}
+	.registration .dropdown-menu {
+		width: 101%;	
+	}	
+	.registration .btn.btn-primary {
+		margin: 0;
+	}
+	.footer-widget.instagram li {
+		width: inherit;
+	}
+	.blog-content {
+		margin-bottom: 20px;
+	}	
+	.program-section.program-five .evan-time h3 {
+		margin: 0 5px 0 0;
+	}
+
+
+
+
+
+}
+
+/* XS Portrait */
+@media (max-width: 479px) {
+	
+	.home-info h3 {
+		font-size: 30px;
+	}	
+	.home-banner-two .home-info {
+		margin-top: -175px;
+	}
+	.program-section .panel-default > .panel-heading .time,
+	.program-section .panel-bottom.panel-default > .panel-heading .time {
+		margin-right: 0;
+		margin-bottom: 5px;
+		float: none;
+	}
+	.program-section .program-info {
+		padding-left: 0;
+	}
+	.program-section .panel-title a::before,
+	.program-section .panel-title a::after,
+	.program-section .panel::before,
+	.program-section.program-two .panel.panel-bottom::before, 
+	.program-section.program-two .panel.active.panel-bottom::before,
+	.program-section .panel.active.panel-bottom::before,
+	.schedule-content .time-info h3::before,
+	.conference-two #countdown li p {
+		display: none;
+	}
+	.program-section .evan-time .btn.btn-primary {
+		font-size: 11px;
+	}
+	.program-section .evan-time h3 {
+		font-size: 12px;
+		padding: 10px;
+	}
+	.program-section .tab-content {
+		padding: 20px 10px 10px;
+	}
+	.achievement-info {
+		width: 100%;
+	}
+	.newsletter-section .form-control, 
+	.footer-three .form-control {
+		width: 65%;
+	}
+	.newsletter-section .btn.btn-default, 
+	.footer-three .btn.btn-default {
+		width: 35%;
+	}
+	.newsletter-section .newsletter-info h1,
+	.registration h1 {
+		font-size: 23px;
+	}
+	.gallery-content li,
+	.achievement-content li,
+	.social-section li {
+		width: 100%;
+	}
+	.contact-section .view-area {
+		min-width: 100%;
+		bottom: 60px;
+	}
+	.contact-section.contact-two  .contact-info,
+	.contact-section .view-area {
+		padding-left: 0;
+		margin-left: 0;
+	}
+	.view-area .view-info h2 {
+		font-size: 20px;
+	}
+	.view-area .view-info {
+		padding: 15px 15px 0;
+	}
+	.view-area .view-info address span {
+		margin-left: 0;
+	}
+	.home-banner-four .home-info h3 {
+		line-height: 28px;
+	}
+	.pagination.pagination-one > li > a, 
+	.pagination.pagination-three > li > a {
+		padding: 10px 5px;
+	}	
+	.calendar {
+		padding-bottom: 300px;
+	}	
+	.calendar .mydate,
+	.calendar.calendar-four .mydate {
+		width: 285px;
+	}
+	#portfolio-menu li {
+		padding: 5px;
+	}
+	.pagination-two li + li {
+		margin-left: 15px;
+	}
+	.home-banner-seven {
+		height: 450px;
+	}
+	.home-banner-seven .home-info {
+		margin-top: -105px;
+	}
+	.entry-title h2 {
+		line-height: 22px;
+		font-size: 20px;
+	}
+	.blog-three .entry-post .post,
+	.blog-three .comment {
+		width: 100%;
+		float: none;
+	}
+	.blog-three .blog-overlay .top-icons {
+	    left: 10px;
+	    top: 3px;
+	}
+	.blog-overlay .social {
+		bottom: 25px;
+	}	
+	.tag-cloud.tag-three, 
+	.tag-cloud.tag-four,
+	.share-social {
+		float: none;
+	}
+	.comments-area ul li:nth-child(2) {
+		margin-left: 0;
+	}
+	.comments-area h2 {
+		margin-bottom: 30px;
+	}
+	.search-bar.search-bar-three {
+		margin-top: 20px;
+	}
+	.blog-section.blog-five .entry-post {
+		margin-bottom: 0;
+	}
+	.calendar.calendar-four {
+		padding-bottom: 290px;
+	}
+	.blog-six .categories .comment {
+		width: 100%;
+	}
+	.blog-six .categories h4 {
+		float: none;
+		margin-bottom: 10px;
+	}	
+	.budapesta-conference {
+		left: 5px;
+	}
+	.budapesta .right-side {
+		width: 65%;
+	}
+	.budapesta .left-side {
+		width: 20%;
+	}
+	.budapesta-conference h1 {
+		width: 100px;
+		line-height: 20px;
+		font-size: 20px;
+	}
+	.budapesta::after {
+		top: 0;
+		height: 102px;
+	}
+	.schedule-content .time-info h3 span {
+		display: block;
+		margin-bottom: 10px;
+		float: none;
+		margin-right: 0;
+	}
+	.schedule-content .info {
+		margin-left: 0;
+	}
+	.program-section.program-five .panel-title a,
+	.program-section .panel-default > .panel-heading a,
+	.program-section .panel-default>.panel-heading p {
+		padding-left: 0;
+	}
+	.twitter .twitter-image,
+	.blog-six .categories .comment {
+		float: none;
+	}
+	.upcoming-section {
+		height: 640px;
+	}
+	.upcoming-section .home-info {
+		margin-top: -240px;
+	}	
+	.home-banner-two.coming-soon .home-info {
+		margin-top: -230px;
+	}
+	.home-banner-five .home-info {
+		margin-top: -110px;
+	}
+	.calendar.calendar {
+		padding-bottom: 310px;
+	}
+	.pricing-plans .price {
+		padding: 15px 30px 30px;
+	}	
+	.speaker-section.speaker-two {
+		padding-bottom: 40px;
+	}
+	.prices-section .col-sm-3,
+	.about-section .col-sm-6 {
+		width: 100%;
+		float: none;
+	}
+	#countdown {
+		text-align: left;
+	}
+	.about-event .about {
+		padding: 40px 35px 30px 40px;
+	}	
+	.home-banner-three .home-info {
+		margin-left: -160px;
+	}
+	.mountain-view .mountain-info address span {
+		margin-left: 0;
+	}	
+	.achievement-two .achievement-image {
+		float: left;
+	}
+	.achievement-two .achievement-info h1 {
+		margin-top: 30px;
+	}
+	.about-conference .about {
+		font-size: 15px;
+	}	
+	.contact-section.contact-two #gmap {
+		height: 415px;
+	}
+	.home-banner-two .home-info {
+		margin-top: -145px;
+	}
+	.social-section li i {
+		display: inherit;
+	}
+	.home-banner-four #countdown {
+		padding: 30px 10px 40px;
+	}
+	.home-banner-four {
+		padding: 165px 0 100px;
+	}
+}
+

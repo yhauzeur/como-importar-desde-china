@@ -1,0 +1,91 @@
+[33mcommit e8a69dc0848f2e0de633d47d0ca98b9ee091b656[m[33m ([m[1;36mHEAD -> [m[1;32munoChina[m[33m)[m
+Author: Jacques Hauzeur R <jacqueshauzeurrestrepo@gmail.com>
+Date:   Sun Oct 8 23:25:51 2017 -0500
+
+    Cambios de nombres a imagenes y al index para enlazarlos al FTP
+
+[33mcommit 9cf234e2d1e6859745cc7ef292e652127ab57c91[m
+Author: Jacques Hauzeur R <jacqueshauzeurrestrepo@gmail.com>
+Date:   Sun Oct 8 20:43:11 2017 -0500
+
+    Cambio de las primeras 5 fotos de la galeria
+
+[33mcommit 1a2fac2c38dbaa19f38182d710fabe33e760b9fe[m
+Author: Jacques Hauzeur R <jacqueshauzeurrestrepo@gmail.com>
+Date:   Sun Oct 8 19:41:11 2017 -0500
+
+    arreglo luego de virtuales
+
+[33mcommit b734522235428f0759283b1d1a60cccf7c8c4c3e[m
+Author: Jacques Hauzeur R <jacqueshauzeurrestrepo@gmail.com>
+Date:   Sun Oct 8 19:01:11 2017 -0500
+
+    link a los virtuales
+
+[33mcommit 76ed8f8291b48f1f6e431d83bf38e10d6ebb2787[m
+Author: Jacques Hauzeur R <jacqueshauzeurrestrepo@gmail.com>
+Date:   Sun Oct 8 17:49:35 2017 -0500
+
+    cambio de testimonios
+
+[33mcommit 8aaf9cfdc3a054ff74e8c36d927674190c2bd288[m
+Author: Jacques Hauzeur R <jacqueshauzeurrestrepo@gmail.com>
+Date:   Sun Oct 8 16:42:13 2017 -0500
+
+    Antes de sponsors
+
+[33mcommit 6eee7b0ccde917458400b428a65298b89c287d02[m
+Author: Jacques Hauzeur R <jacqueshauzeurrestrepo@gmail.com>
+Date:   Sun Oct 8 16:38:22 2017 -0500
+
+    Antes de la galeria
+
+[33mcommit 087cb26ef76ab1ec1dafce792a4f4a3418842d24[m
+Merge: c7fa0fb a155428
+Author: Jacques Hauzeur R <jacqueshauzeurrestrepo@gmail.com>
+Date:   Sun Oct 8 16:33:15 2017 -0500
+
+    Merge branch 'js' into unoChina
+
+[33mcommit a155428261f20915e550c4a1293fab4fd7f4e7d8[m[33m ([m[1;32mjs[m[33m)[m
+Author: Jacques Hauzeur R <jacqueshauzeurrestrepo@gmail.com>
+Date:   Sun Oct 8 16:32:57 2017 -0500
+
+    embed map in the index1
+
+[33mcommit c7fa0fbde3d00375132ec19b29c90b7bbf944339[m
+Merge: 4bd7171 ecc47c1
+Author: Jacques Hauzeur R <jacqueshauzeurrestrepo@gmail.com>
+Date:   Sun Oct 8 16:05:57 2017 -0500
+
+    Merge branch 'js' into unoChina
+
+[33mcommit ecc47c1992ade27b5ee45267d7aaaf1357055c32[m[33m ([m[1;32mprice[m[33m)[m
+Author: Jacques Hauzeur R <jacqueshauzeurrestrepo@gmail.com>
+Date:   Sun Oct 8 16:00:08 2017 -0500
+
+    Translado de precios de index2 a index1
+
+[33mcommit 4bd717123c2c949e98197bf41417d0ec427e38d8[m
+Author: Jacques Hauzeur R <jacqueshauzeurrestrepo@gmail.com>
+Date:   Sun Oct 8 15:27:45 2017 -0500
+
+    telefono y whatsapp en address
+
+[33mcommit 57662bf2ccaaba9412c14c535d52802f35fbd53a[m
+Author: Jacques Hauzeur R <jacqueshauzeurrestrepo@gmail.com>
+Date:   Sun Oct 8 15:14:44 2017 -0500
+
+    Cambio de lugar y fecha
+
+[33mcommit 2d495ed7b9b61f1c3dbb05486d30e06ac6d1852d[m
+Author: Jacques Hauzeur R <jacqueshauzeurrestrepo@gmail.com>
+Date:   Sat Oct 7 23:24:14 2017 -0500
+
+    uno
+
+[33mcommit 343627bb5faccec356e57aecd3bdaeb91fe22e5b[m[33m ([m[1;32mmaster[m[33m)[m
+Author: Jacques Hauzeur R <jacqueshauzeurrestrepo@gmail.com>
+Date:   Sat Oct 7 23:09:35 2017 -0500
+
+    Zero Point
